@@ -1,4 +1,4 @@
-<mxfile modified="2023-06-19T23:31:46.473Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="PSKngpJ2p3hnolSVD1qF" version="21.3.8" type="github">
+<mxfile modified="2023-06-19T23:32:42.468Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="CFFD4bjDudJWU5YWulLf" version="21.3.8" type="github">
   <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="Page-1">
     <mxGraphModel dx="880" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -81,7 +81,7 @@
           <mxGeometry x="130.5" y="154" width="63" height="66" as="geometry" />
         </mxCell>
         <mxCell id="kALYX3asqiV95KRrsZR_-417" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/databases.svg;" parent="1" vertex="1">
-          <mxGeometry x="372" y="540" width="58.5" height="57.33" as="geometry" />
+          <mxGeometry x="385.75" y="540" width="58.5" height="57.33" as="geometry" />
         </mxCell>
         <mxCell id="nxI15AAKWFtH6_1bC97I-412" value="/www.cotizacion-dolar.com.ar" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="740" y="189" width="180" height="175" as="geometry" />
@@ -89,19 +89,19 @@
         <mxCell id="nxI15AAKWFtH6_1bC97I-413" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="nxI15AAKWFtH6_1bC97I-412" vertex="1">
           <mxGeometry x="30" y="44" width="120" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="nxI15AAKWFtH6_1bC97I-414" value="Cotización" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="nxI15AAKWFtH6_1bC97I-412" vertex="1">
+        <mxCell id="nxI15AAKWFtH6_1bC97I-414" value="Cotización Oficial" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="nxI15AAKWFtH6_1bC97I-412" vertex="1">
           <mxGeometry x="30" y="47" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nxI15AAKWFtH6_1bC97I-418" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="nxI15AAKWFtH6_1bC97I-412" vertex="1">
           <mxGeometry x="30" y="129" width="120" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="nxI15AAKWFtH6_1bC97I-416" value="Cotización" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="nxI15AAKWFtH6_1bC97I-412" vertex="1">
+        <mxCell id="nxI15AAKWFtH6_1bC97I-416" value="Cotización Blue" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="nxI15AAKWFtH6_1bC97I-412" vertex="1">
           <mxGeometry x="30" y="132" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nxI15AAKWFtH6_1bC97I-417" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="770" y="275" width="120" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="nxI15AAKWFtH6_1bC97I-415" value="Cotización" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="nxI15AAKWFtH6_1bC97I-415" value="Cotización MEP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="770" y="278" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nxI15AAKWFtH6_1bC97I-433" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.994;entryY=0.386;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#007FFF;strokeWidth=2;startArrow=classic;startFill=1;" parent="1" source="nxI15AAKWFtH6_1bC97I-419" target="nxI15AAKWFtH6_1bC97I-421" edge="1">
